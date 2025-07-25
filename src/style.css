@@ -20,6 +20,16 @@ body {
   font-size: 16px;
 }
 
+.search-form-submit {
+  background: rgba(80, 47, 80, 0.986);
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  color: #fff;
+  margin-left: 5px;
+  font-size: 16px;
+}
+
 footer {
   text-align: center;
 }
