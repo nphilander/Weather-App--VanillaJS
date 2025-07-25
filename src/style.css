@@ -3,6 +3,10 @@ body {
   font-family: "Roboto Condensed", sans-serif;
 }
 
+a {
+  color: #2217b6;
+}
+
 .container {
   background: #fff;
   max-width: 600px;
@@ -36,6 +40,20 @@ header {
   font-size: 16px;
 }
 
+main {
+  padding: 30px 0;
+}
+
+.main-weather-data {
+  display: flex;
+  justify-content: space-between;
+}
+
+.weather-city {
+  margin: 0;
+  font-size: 38px;
+  line-height: 48px;
+}
 footer {
   text-align: center;
   font-size: 13px;
